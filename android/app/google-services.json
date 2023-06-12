@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "257763039036",
+    "project_id": "solid-social-app-dev",
+    "storage_bucket": "solid-social-app-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257763039036:android:11708baed0e36366b73039",
+        "android_client_info": {
+          "package_name": "com.solidsocial.app.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257763039036-hdo2i79vdnmi85p5ip45v5bp6bocgqdn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.solidsocial.app.dev",
+            "certificate_hash": "9c3d1eaebcfcdbdc6de6eb26e259539bec3102d7"
+          }
+        },
+        {
+          "client_id": "257763039036-pk47ipaiskqeuett3376qm89h67mr3bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWmKjbj53lDJ6BzuySGa_gdrJNrZZUgJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257763039036-pk47ipaiskqeuett3376qm89h67mr3bt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "257763039036-dac62891at4najts7636paugqdmvqc1a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.solidsocial.app.dev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
